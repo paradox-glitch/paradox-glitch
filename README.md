@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a few different projects
-- 🌱 I’m currently learning Substance Designer
+- 🌱 I’m currently learning unity networking
 - 💬 Ask me about anything
 - 📫 How to reach me: dev@paradox-glitch.co.uk
 - 😄 Pronouns: He, Him, His
